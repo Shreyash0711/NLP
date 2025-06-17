@@ -22,7 +22,7 @@ This project predicts restaurant review ratings (1 to 5) based on the text of cu
 5. Simple CLI-based Interface for rating prediction
 
 
-##Model Evaluation Summary
+#Model Evaluation Summary
 Overall Accuracy: 81%
 
 -**Best Predicted Ratings**: 1, 4, 5 (High precision & recall)
