@@ -26,3 +26,6 @@ This project implements a **Spam Message Classifier** that predicts whether an S
 - Preprocessing: Lowercasing, punctuation removal, stopword removal, tokenization.
 - TF-IDF used for feature extraction.
 - Classifier: Multinomial Naive Bayes.
+
+## Snap Shots
+<img width="1440" alt="Screenshot 2025-06-18 at 3 50 09 AM" src="https://github.com/user-attachments/assets/704a394b-a1ed-4156-b8c3-de401c1489b4" />
