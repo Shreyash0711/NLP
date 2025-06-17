@@ -37,3 +37,8 @@ Overall Accuracy: 81%
 
 ✔️ Model is reliable for general use
 ⚠️ Needs improvement for detecting Rating 2 & 3 more accurately.
+
+#Snap Shots
+
+<img width="1440" alt="Screenshot 2025-06-17 at 8 55 44 PM" src="https://github.com/user-attachments/assets/1eb11086-be2f-4e3b-9dd3-19b1cf1252de" />
+
