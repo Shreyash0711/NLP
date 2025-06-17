@@ -21,6 +21,3 @@ This project predicts restaurant review ratings (1 to 5) based on the text of cu
 4. Model Saving using Joblib
 5. Simple CLI-based Interface for rating prediction
 
-## How to Run
-
-1. Install dependencies:
