@@ -22,3 +22,18 @@ This project predicts restaurant review ratings (1 to 5) based on the text of cu
 5. Simple CLI-based Interface for rating prediction
 
 
+##Model Evaluation Summary
+Overall Accuracy: 81%
+
+-**Best Predicted Ratings**: 1, 4, 5 (High precision & recall)
+
+-**Weakest Performance:** Rating 2 (Low recall — model misses some true 2’s)
+
+-**F1-Score Range:** 0.72 – 0.88 across classes
+
+-**Macro F1-Score:** 0.80 (balanced across classes)
+
+-**Weighted F1-Score:** 0.81 (accounts for class distribution)
+
+✔️ Model is reliable for general use
+⚠️ Needs improvement for detecting Rating 2 & 3 more accurately.
